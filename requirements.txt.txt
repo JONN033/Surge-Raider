@@ -1,0 +1,10 @@
+os
+random
+string
+asyncio
+socket
+discord.py-self
+aiohttp
+rgbprint
+sys
+hashlib
